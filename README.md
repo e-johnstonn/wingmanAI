@@ -4,9 +4,13 @@ WingmanAI is a powerful tool for interacting with real-time transcription of bot
 
 ## Demo
 
-https://github.com/e-johnstonn/wingmanAI/assets/30129211/ab7d2cdc-8acf-4b80-a41c-fe6adecd6d93
+https://github.com/e-johnstonn/wingmanAI/assets/30129211/6f9f8e09-f43e-47d5-87ae-ac5bc693963d
 
-As you can see, the bot can answer questions about past conversations when you load the transcripts for a designated person. 
+As you can see, the bot can answer questions about past conversations when you load the transcripts for a design
+
+
+
+ated person. 
 
 ## Features
 
