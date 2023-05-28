@@ -2,6 +2,11 @@
 
 WingmanAI is a powerful tool for interacting with real-time transcription of both system and microphone audio. Powered by ChatGPT, this tool lets you interact in real-time with the transcripts as an extensive memory base for the bot, providing a unique communication platform. 
 
+## Demo
+
+https://github.com/e-johnstonn/wingmanAI/assets/30129211/ab7d2cdc-8acf-4b80-a41c-fe6adecd6d93
+- As you can see, the bot can answer questions about past conversations when you load the transcripts for a designated person. 
+
 ## Features
 
 - **Real-time Transcription**: WingmanAI can transcribe both system output and microphone input audio, allowing you to view the live transcription in an easy-to-read format. 
@@ -15,7 +20,7 @@ WingmanAI is a powerful tool for interacting with real-time transcription of bot
 - **Append Conversations**: You can keep appending to the saved transcripts, building a vast database over time for the bot to pull from.
 
 
-## Demo
+
 
 ## Installation
 
