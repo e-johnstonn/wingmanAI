@@ -14,6 +14,9 @@ from chatbot_utils import GPTChat
 
 from vector_utils import *
 
+from dotenv import load_dotenv
+
+load_dotenv('keys.env')
 
 audio_queue = queue.Queue()
 

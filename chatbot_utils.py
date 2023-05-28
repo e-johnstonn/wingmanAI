@@ -1,14 +1,14 @@
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage, AIMessage
 
-api_key = "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"
+
 
 
 
 class GPTChat:
     def __init__(self):
         self.messages = []
-        self.chat = ChatOpenAI(openai_api_key = api_key)
+        self.chat = ChatOpenAI()
         self.sys_message = SystemMessage(
                 content="""
                 You're ChatGPT, OpenAI's wingman AI built on GPT-3.5. 

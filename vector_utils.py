@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 
 class Database:
     def __init__(self, directory):
-        self.embeddings = OpenAIEmbeddings(openai_api_key = "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")
+        self.embeddings = OpenAIEmbeddings()
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
         self.directory = directory
         self.files = os.listdir(self.directory)
