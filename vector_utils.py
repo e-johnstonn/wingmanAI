@@ -20,15 +20,11 @@ class Database:
         return self.files
 
     def save_or_add_to_transcripts(self, name, transcript):
-        print('saving')
         persist_directory = os.path.join(self.directory, name)
         if not os.path.exists(persist_directory):
             os.makedirs(persist_directory)
         transcript_file = os.path.join(persist_directory, "transcript.txt")
-        print('continuing')
         with open(transcript_file, 'a') as f:
-            print('writing')
-            print('transcript')
             f.write(transcript + "\n\n")
 
 
