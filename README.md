@@ -1,4 +1,4 @@
-# WingmanAI
+<h1 align="center">WingmanAI</h1>
 
 WingmanAI is a powerful tool for interacting with real-time transcription of both system and microphone audio. Powered by ChatGPT, this tool lets you interact in real-time with the transcripts as an extensive memory base for the bot, providing a unique communication platform. 
 
